@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <b>I'm an undergraduate **Computer Science student at UFSC**. I'm currently dive into self-sovereign identity, databases and languagens like C and Go. I'm passionate about solving problems and explore from low-level systems to abstracted moderns systems.</b>
+  <b>I'm an undergraduate Computer Science student at UFSC. I'm currently dive into self-sovereign identity, databases and languagens like C and Go. I'm passionate about solving problems and explore from low-level systems to abstracted moderns systems.</b>
 </p>
 
 ## Languages and Tools
